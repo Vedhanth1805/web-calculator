@@ -28,6 +28,6 @@ No installation required. Simply clone or download the repository and open the i
 
 bash
 Copy code
-git clone https://github.com/yourusername/simple-web-calculator.git
+git clone https://github.com/Vedhanth1805/simple-web-calculator.git
 cd simple-web-calculator
 open index.html
